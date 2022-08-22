@@ -1,7 +1,7 @@
 {
-    "id": "sample",
-    "name": "sample",
-    "title": "MakeCode Editor Sample",
+    "id": "sample databot",
+    "name": "databot",
+    "title": "databot MakeCode Editor Sample",
     "corepkg": "core",
     "cloud": {
         "workspace": false,
