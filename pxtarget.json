@@ -23,8 +23,9 @@
         "autoRun": true
     },
     "appTheme": {
-        "logoUrl": "https://github.com/Microsoft/pxt-sample",
-        "homeUrl": "http://microsoft.github.io/pxt-sample/",
+        "logoUrl": "https://databot.us.com/",
+        "logo": "https://databot.us.com/wp-content/uploads/2019/02/databot-logo-1-290x75.png",
+        "homeUrl": "https://databot.us.com/",
         "privacyUrl": "https://go.microsoft.com/fwlink/?LinkId=521839",
         "termsOfUseUrl": "https://go.microsoft.com/fwlink/?LinkID=206977",
         "betaUrl": "https://makecode.com/",
